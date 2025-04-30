@@ -1,28 +1,3 @@
-# Desafio-Login-e-Senha---EmComp
-Página de Login e Senha, atentando aos critérios do desafio.
-Login e Senha pré estabelecidos.
-Código programado na plataforma Notepadd++ v8.8
-O host utilizado foi o WAMP Server.
-O BDD foi desenvolvido pela ferramenta do PHP MyAdmin do WAMP.
-
-O código é constituído em 5 arquivos .php:
-
-- index.php
-- conexao.php
-- painel.php
-- protect.php
-- logout.php
-
-Base de Estudos:
-
-- Técnico Integrado em Informática - IFRP - 2022-2024.
-- Auto-Didata.
-- Conhecimento Empírico.
-
-Meu nome é Plinio Zanelli, sou aluno do 1º Período de CC e sou muito grato pela oportunidade!
-
-
-
 
 //index.php
 <?php
